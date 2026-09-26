@@ -1,0 +1,7 @@
+ultralytics==8.4.160
+onnxruntime>=1.20
+opencv-python>=4.10
+Pillow>=10
+PyYAML>=6
+# Install a CUDA-compatible PyTorch build separately when using an NVIDIA GPU.
+requests>=2.31
